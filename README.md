@@ -1,0 +1,2 @@
+# genie
+Slack bot
